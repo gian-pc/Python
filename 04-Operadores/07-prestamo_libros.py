@@ -6,3 +6,5 @@ distancia_biblioteca_km = int(input('A cuanto km vives de la biblioteca? '))
 
 es_elegible_prestamo = tiene_credencial.strip().lower() == 'si' or distancia_biblioteca_km <= DISTANCIA_PERMITIDA_KM
 print(f'Eres elegible prestamo: {es_elegible_prestamo}')
+
+print('hola')
