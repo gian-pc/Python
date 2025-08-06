@@ -1,6 +1,6 @@
 print('*** Sentencia IF ***')
 
-edad = 16
+edad = 6
 
 if edad >= 18:
     print(f'Eres mayor de edad. Tienes {edad} años')
